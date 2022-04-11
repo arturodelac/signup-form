@@ -1,0 +1,17 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.big-container {
+    display: flex;
+}
+
+.bg-image {
+    background: url("./images/index.jpg");
+    background-repeat: no-repeat;
+    width: 40%;
+    height: 100vh;
+    background-position: 55% 50%;
+}
